@@ -1,1 +1,7 @@
-# CO2401_Software-Development_Assignment_1
+# CO2401 Software Development - Assignment 1
+
+University of Lancashire Coursework
+
+Module: CO2401 Software Development
+
+Grade Achieved: 68%
